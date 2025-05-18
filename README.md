@@ -23,9 +23,13 @@ A fourth-year Computer Engineering student passionate about application and soft
 <p align="left"> <a href="https://www.facebook.com/Tawicha.sirisuwan/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Tawicha-Sirisuwan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tawicha-sirisuwan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
+## 📊 My GitHub Stats
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Tawicha-Sirisuwan"><img src="https://github-readme-stats.vercel.app/api?username=Tawicha-Sirisuwan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tawicha-Sirisuwan's GitHub stats" /></a>
-
-<a href="https://github.com/Tawicha-Sirisuwan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawicha-Sirisuwan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="https://github.com/Tawicha-Sirisuwan">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tawicha-Sirisuwan&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Tawicha-Sirisuwan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawicha-Sirisuwan&layout=compact&langs_count=10&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Top Languages" />
+  </a>
+</p>
