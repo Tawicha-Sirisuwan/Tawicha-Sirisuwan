@@ -1,14 +1,13 @@
 
 <h1 align="center">
-  💻 Hi! My name is Tawicha Sirisuwan
+  👋 Hi! My name is Tawicha Sirisuwan
 </h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00FFCC&center=true&vCenter=true&width=500&lines=Computer+Engineering+%7C+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00FFCC&center=true&vCenter=true&width=700&lines=Computer+Engineering+%7C+Software+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -100,3 +99,4 @@ A fourth-year Computer Engineering student passionate about application and soft
 </p>
 
 ---
+
